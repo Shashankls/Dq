@@ -154,7 +154,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                           InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
-            ][
+            ],[
 
 InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
                     InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
