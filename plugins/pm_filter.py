@@ -244,6 +244,9 @@ InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
         InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#files#{offset}#{req}"),
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
+
+btn.insert(0, [                InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')])
+
     btn.insert(0, [
         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
     ])
