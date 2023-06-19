@@ -245,8 +245,7 @@ InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
 
-              InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
-
+              
     btn.insert(0, [
         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
     ])
