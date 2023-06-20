@@ -241,7 +241,8 @@ InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
                 ],
             )
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#files#{offset}#{req}"),
+        InlineKeyboardButton("! How to download", url=f"https://t.me/+JPxUCqjvaQ8wYjZl"),
+
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
 
