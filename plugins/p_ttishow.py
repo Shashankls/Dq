@@ -64,7 +64,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                                                            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("how to download🤔", url="https://t.me/powerdisk18")
+                                                                           InlineKeyboardButton("HOW TO GET MOVIES 🤔", url="https://t.me/powerdisk18")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
