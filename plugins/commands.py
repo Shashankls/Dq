@@ -80,8 +80,7 @@ InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ❤️', url=GRP_LNK)
         btn = [
             [
                 InlineKeyboardButton(
-                    "❆ Jᴏɪɴ Oᴜʀ Bᴀᴄᴋ-Uᴘ Cʜᴀɴɴᴇʟ ❆", url=https://t.me/+u5vuG2TD2sBmNzY1
-                )
+                    "❆ Jᴏɪɴ Oᴜʀ Bᴀᴄᴋ-Uᴘ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link          )
             ]
         ]
 
