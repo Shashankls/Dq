@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/+yIeyxB7R6ZgzZTM1">Tᴏᴜᴄʜ</a>
+🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/+Z-kdHqJVykQzZDA1">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 ಗುರು,
  ಶೇರ್ ಮಾಡುವ ಮೂಲಕ ನಮಗೆ support ಮಾಡು ❤️
