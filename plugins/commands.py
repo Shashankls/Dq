@@ -184,7 +184,7 @@ InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ❤️', url=GRP_LNK)
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ me", url="t.me/Srikanth18")
+                          InlineKeyboardButton("Bᴏᴛ owner", url="t.me/Srikanth18")
                          ]
                         ]
                     )
@@ -357,7 +357,7 @@ InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ❤️', url=GRP_LNK)
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Srikanth18")
+              InlineKeyboardButton("Bᴏᴛ Ome", url="t.me/Srikanth18")
              ]
             ]
         )
