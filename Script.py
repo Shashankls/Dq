@@ -203,7 +203,7 @@ Nᴀᴍᴇ - {}"""
 ▫️ ᴄʜᴀɴɴᴇʟ :
  @kannadamovies_rockers👈
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :
- https://t.me/+L5E3TkFwXY9lNGVl❤️
+ https://t.me/+L5E3TkFwXY9lNGVl ❤️
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
