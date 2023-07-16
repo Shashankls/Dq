@@ -41,7 +41,7 @@ async def save_group(bot, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                  ],[
-                    InlineKeyboardButton("How to download", url="https://t.me/powerdisk18")
+                    InlineKeyboardButton("How to download", url="https://t.me/howtowatch_sharedisk")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
