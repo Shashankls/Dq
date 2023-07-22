@@ -42,7 +42,8 @@ async def save_group(bot, message):
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                  ],[
                     InlineKeyboardButton("How to download", url="https://t.me/howtowatch_sharedisk")
-                  ]]
+                  ]
+                ]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
             text=f"<b>Thankyou For Adding Me In {message.chat.title} ❣️\n\nIf you have any questions & doubts about using me contact support.</b>",
