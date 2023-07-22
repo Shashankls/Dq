@@ -241,7 +241,7 @@ InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
                 ],
             )
     btn.insert(0, [
-        InlineKeyboardButton("❗ How to download ❓", url=f"https://t.me/powerdisk18"),
+        InlineKeyboardButton("❗ How to download ❓", url=f"https://t.me/howtowatch_sharedisk"),
 
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
