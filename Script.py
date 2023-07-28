@@ -201,9 +201,9 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ :
- @kannadamovies_rockers👈
+ https://t.me/+k7abyPgns0owZmM1👈
 ▫️ REQUEST movies ɢʀᴏᴜᴘ :
- https://t.me/+L5E3TkFwXY9lNGVl ❤️
+ https://t.me/G1i2r3i ❤️
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
